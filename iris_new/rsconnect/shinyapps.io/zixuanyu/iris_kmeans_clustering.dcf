@@ -1,0 +1,13 @@
+name: iris_kmeans_clustering
+title: iris_kmeans_clustering
+username:
+account: zixuanyu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8272895
+bundleId: 6829343
+url: https://zixuanyu.shinyapps.io/iris_kmeans_clustering/
+when: 1675978965.78842
+lastSyncTime: 1675978965.78843
+asMultiple: FALSE
+asStatic: FALSE
